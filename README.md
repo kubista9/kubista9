@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Wightlifting]([url_to_gif.gif](https://lottiefiles.com/animations/gym-2-APYc0uwjDj))
+![Wightlifting](https://lottiefiles.com/animations/gym-2-APYc0uwjDj)
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning C, React, IoT
