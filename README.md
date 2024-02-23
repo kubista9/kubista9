@@ -12,8 +12,7 @@
 <br>
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kubista9&show_icons=true&locale=en" alt="Jakub Stats" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact" alt="Jakub's most used languages" /></p>
-
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kubista9&show_icons=true&locale=en" alt="Jakub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact" alt="Jakub's most used languages" />
 
 
