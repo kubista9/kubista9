@@ -10,7 +10,7 @@
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubista9&layout=compact)
 <br>
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyuserid)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/vnxxz3vngx7mq0co4qh7c8q6x)
 
 
 
