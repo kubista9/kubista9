@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Wightlifting](https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf)
+<img src="https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf">
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning C, React, IoT
