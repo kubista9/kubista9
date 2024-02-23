@@ -35,6 +35,11 @@
 </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="C" width="40" height="40"/></a>
 </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="C" width="40" height="40"/></a>
 </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="C" width="40" height="40"/></a>
 <br>
 
 <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=kubista9&show_icons=true&locale=en" alt="Jakub Stats" />
