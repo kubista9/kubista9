@@ -6,7 +6,7 @@
 - 🤔 I’m looking for a job in IT
 - 📫 Email: jakubkuka07@gmail.com
 - 👀 <a href="https://www.linkedin.com/in/jakub-kuka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jakub Kuka" height="10" width="10" /></a>
-<a href="https://instagram.com/jakubkuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jakub Kuka" height="10" width="10" /></a>
+<a href="https://instagram.com/jakubkuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jakub Kuka" height="15" width="15" /></a>
 <br>
 <br>
 <br>
