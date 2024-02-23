@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Wightlifting](ttps://lottiefiles.com/animations/gym-2-APYc0uwjDj](https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf)
+![Wightlifting](https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf)
 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning C, React, IoT
