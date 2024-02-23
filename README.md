@@ -23,8 +23,18 @@
 </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="C" width="40" height="40"/></a>
 </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="C" width="40" height="40"/></a>
 </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="C" width="40" height="40"/></a>
-</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/tree/master/icons/bitbucket" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-line.svg" alt="Blazor" width="40" height="40"/></a>
 </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="C" width="40" height="40"/></a>
+</a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="C" width="40" height="40"/></a>
 <br>
 
 <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=kubista9&show_icons=true&locale=en" alt="Jakub Stats" />
