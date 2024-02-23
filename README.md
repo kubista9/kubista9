@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal portfolio
@@ -10,4 +7,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with programming skills 
 - 💬 Ask me about ...
 - 📫 How to reach me: jakubkuka07@gmail.com
--->
