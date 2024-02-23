@@ -17,7 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><br>
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://iconscout.com/free-icon/c-58" alt="react" width="40" height="40"/> </a><br>
+</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/tree/master/icons/c" alt="react" width="40" height="40"/> </a><br>
 
 <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=kubista9&show_icons=true&locale=en" alt="Jakub Stats" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact" alt="Jakub's most used languages" />
