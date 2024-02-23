@@ -7,5 +7,7 @@
 - 👀 https://www.linkedin.com/in/jakub-kuka/
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kubista9)
+<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubista9&layout=compact)
+
 
