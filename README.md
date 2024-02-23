@@ -14,8 +14,6 @@
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=kubista9)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-![Jakub's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubista9&theme=xcode)
-<br>
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyuserid)
 
 
