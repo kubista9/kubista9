@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning React, Ubuntu, Docker, Typescript
+- 🌱 I’m currently learning React, Ubuntu, Docker, Javascript
 - 🤔 I’m looking for a job in IT
 - 📫 Email: jakubkuka07@gmail.com
 - 👀 <a href="https://www.linkedin.com/in/jakub-kuka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jakub Kuka" height="25" width="25" /></a>
