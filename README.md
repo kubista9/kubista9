@@ -71,7 +71,8 @@
 <br>
 
 <br><img align="left" src="https://github-readme-stats.vercel.app/api?username=kubista9&show_icons=true&locale=en" alt="Jakub Stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact&langs_count=8&hide=groovy" alt="Jakub's most used languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact&langs_count=8&hide=groovy,swig" alt="Jakub's most used languages" />
+
 
 
 
