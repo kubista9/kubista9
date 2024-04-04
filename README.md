@@ -21,13 +21,15 @@
 </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg" alt="Typescript" width="40" height="40"/>
 </a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sass.svg" alt="SASS" width="40" height="40"/>
+</a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
 </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/> 
+</a>
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-</a>
+
 
 ### Tools <br>
 <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring boot" width="40" height="40"/>
