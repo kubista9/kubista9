@@ -7,7 +7,7 @@
 - 📫 Email: jakubkuka07@gmail.com
 - 👀 <a href="https://www.linkedin.com/in/jakub-kuka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jakub Kuka" height="25" width="25" /></a>
 <a href="https://instagram.com/jakubkuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jakub Kuka" height="25" width="25" /></a>
-### Languages and tools <br>
+### Languages<br>
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C sharp" width="40" height="40"/> 
 </a> 
@@ -24,14 +24,16 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
 </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
 </a>
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
 </a>
+
+### Tools <br>
 <a href="https://spring.io/projects/spring-boot/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring boot" width="40" height="40"/>
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
 </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
 </a>
