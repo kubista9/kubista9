@@ -9,7 +9,7 @@
 <a href="https://instagram.com/jakubkuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jakub Kuka" height="25" width="25" /></a>
 ### Languages<br>
 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" alt="C sharp" width="40" height="40"/> 
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C sharp" width="40" height="40"/> 
 </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dotnet.svg" alt=".NET" width="40" height="40"/> 
 </a>
