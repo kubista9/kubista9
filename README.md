@@ -39,6 +39,8 @@
 </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
 </a>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" alt="Cypress" width="40" height="40"/>
+</a>
 <br>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact&langs_count=8&hide=groovy,swig" alt="Jakub's most used languages" />
