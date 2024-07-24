@@ -26,8 +26,6 @@
 ### Tools <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="40" height="40"/> 
 </a> 
-<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" alt="Cypress" width="40" height="40"/>
-</a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET" width="40" height="40"/> 
