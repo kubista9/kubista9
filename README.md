@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 - 🔭 I’m currently working at UCB Pharma
 - 🌱 I’m currently learning Angular, Typescript & .NET
 - 👀 <a href="https://www.linkedin.com/in/jakub-kuka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jakub Kuka" height="25" width="25" /></a>
