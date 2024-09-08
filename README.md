@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I am currently working on my personal weebsite 
+
 ### Languages<br>
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C sharp" width="40" height="40"/> 
