@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am currently working on my personal weebsite 
+### I am currently working on my personal website 
 
 ### Languages<br>
 
