@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am currently working on my personal website 
+### I am currently working on my personal domain 
 
 ### Languages<br>
 
