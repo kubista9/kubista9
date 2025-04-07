@@ -10,6 +10,8 @@
 </a>
 <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> 
 </a>
+<a href="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/> 
+</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="Typescript" width="40" height="40"/>
 </a> 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="SASS" width="40" height="40"/>
