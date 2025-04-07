@@ -18,7 +18,7 @@
 </a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" alt="SASS" width="40" height="40"/>
 </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="Postgresql" width="40" height="40"/> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="Postgresql" width="40" height="40"/> 
 </a>
 
 ### Other <br>
