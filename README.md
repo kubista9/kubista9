@@ -15,9 +15,6 @@
 <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> 
 </a>
 <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/> 
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="Postgresql" width="40" height="40"/> 
-</a>
 
 ### Other <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40" height="40"/> 
@@ -30,6 +27,9 @@
 </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/> </a>
 <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="Postgresql" width="40" height="40"/> 
+</a>
 </a>
 <br>
 <br>
