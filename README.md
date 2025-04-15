@@ -33,4 +33,4 @@
 </a>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact&langs_count=8&hide=groovy,swig,CSS,php" alt="Jakub's most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact&langs_count=8&hide=groovy,swig,CSS,PHP,shell" alt="Jakub's most used languages" />
