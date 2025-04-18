@@ -30,6 +30,7 @@
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="Postgresql" width="40" height="40"/> 
 </a>
+<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/> 
 </a>
 <br>
 <br>
