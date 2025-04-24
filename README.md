@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### I am currently working on my personal domain 
-
 ### Languages<br>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="40" height="40"/> 
