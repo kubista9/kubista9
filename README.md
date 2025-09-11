@@ -32,7 +32,7 @@
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="Vue" width="40" height="40"/> 
 </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://en.nextjs.im/docs" alt="Vue" width="40" height="40"/> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next JS" width="40" height="40"/> 
 </a>
 
 <br>
