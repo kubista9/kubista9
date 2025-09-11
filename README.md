@@ -1,6 +1,6 @@
-## Hi there
+## Hi there 👋
 
-### Languages<br>
+### 💻 Languages <br>
 <a href="https://www.c-language.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/> 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C sharp" width="40" height="40"/> 
 </a> 
@@ -13,7 +13,7 @@
 <a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> 
 </a>
 
-### Other <br>
+### 🛠️ Frameworks & Tools <br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/> </a>
 <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
 </a>
@@ -23,7 +23,7 @@
 </a>
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" width="40" height="40"/> 
 </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next JS" width="40" height="40"/> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next JS" width="40" height="40"/> 
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
@@ -39,6 +39,16 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/> 
 </a>
 
-<br>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubista9&show_icons=true&locale=en&layout=compact&langs_count=8&hide=groovy,swig,CSS,PHP,shell" alt="Jakub's most used languages" />
+---
+
+### 🚀 About Me
+- 🏡 From Slovakia 🇸🇰  
+- 🎓 Software Technology Engineering student @ VIA University College, Denmark 🇩🇰 
+- 🏢 Internship in Brussels, Belgium 🇧🇪  
+- 🌍 Erasmus Exchange in Seoul, South Korea 🇰🇷
+- 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
+- ♟️ Chess top 10% on chess.com, 💪 gym enthusiast, 🎤 occasional stand-up comedy performer  
+
+### 🎯 Current Focus
+- 📈 Writing my Bachelor's Thesis – a combination of machine learning and financial markets
+
