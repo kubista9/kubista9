@@ -34,7 +34,7 @@
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next JS" width="40" height="40"/> 
 </a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
 </a>
 
 
