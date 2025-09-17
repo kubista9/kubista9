@@ -47,7 +47,7 @@
 - 🏢 Internship in Brussels, Belgium 🇧🇪  
 - 🌍 Erasmus Exchange in Seoul, South Korea 🇰🇷
 - 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
-- ♟️ Chess top 10% on chess.com, 💪 gym enthusiast, 🎤 occasional stand-up comedy performer  
+- ♟️ Top 10% on chess.com, 💪 gym enthusiast, 🎤 occasional stand-up comedy performer  
 
 ### 🎯 Current Focus
 - 📈 Writing my Bachelor's Thesis – a combination of machine learning and financial markets
