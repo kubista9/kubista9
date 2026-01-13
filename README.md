@@ -47,7 +47,7 @@
 - 🏢 Internship @ UCB - Belgium 🇧🇪  
 - 🌍 Erasmus Exchange @ UoS - South Korea 🇰🇷
 - 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
-- ♟️ Top 10% on chess.com, 💪 gym enthusiast, 🎤 occasional stand-up comedy performer  
+- ♟️ Top 5% on chess.com, 💪 gym enthusiast, 🎤 occasional stand-up comedy performer  
 
 ### 🎯 Current Focus
 - 📈 Writing my Bachelor's Thesis – a combination of machine learning and financial markets
