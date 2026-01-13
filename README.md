@@ -42,13 +42,10 @@
 ---
 
 ### 🚀 About Me
-- 🏡 From Slovakia 🇸🇰  
-- 🎓 Software Technology Engineering student @ VIA University College - Denmark 🇩🇰 
-- 🏢 Internship @ UCB - Belgium 🇧🇪  
 - 🌍 Erasmus Exchange @ UoS - South Korea 🇰🇷
+- 🏢 Internship @ UCB - Belgium 🇧🇪
+- 🎓 Software Technology Engineering @ VIA University College - Denmark 🇩🇰 
+- 🏡 From Slovakia 🇸🇰  
 - 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
 - ♟️ Top 5% on chess.com, 💪 gym enthusiast, 🎤 occasional stand-up comedy performer  
-
-### 🎯 Current Focus
-- 📈 Writing my Bachelor's Thesis – a combination of machine learning and financial markets
 
