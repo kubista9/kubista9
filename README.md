@@ -47,5 +47,6 @@
 - 🎓 Software Technology Engineering @ VIA University College - Denmark 🇩🇰 
 - 🏡 From Slovakia 🇸🇰  
 - 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
-- ♟️ Top 5% on chess.com 💪 gym enthusiast 🎤 occasional stand-up comedy performer  
+- ♟️ Top 5% on chess.com 💪 gym enthusiast 🎤 occasional stand-up comedy performer
+- Cooking up some stock prediction bot
 
