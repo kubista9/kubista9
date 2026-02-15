@@ -49,4 +49,5 @@
 - 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
 - ♟️ Top 5% on chess.com 💪 gym enthusiast 🎤 occasional stand-up comedy performer
 - Cooking up some stock prediction bot
+- One person enterprise
 
