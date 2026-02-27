@@ -41,13 +41,15 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me ( Forward Deployment Engineering )
 - 🌍 Erasmus Exchange @ UoS - South Korea 🇰🇷
 - 🏢 Internship @ UCB - Belgium 🇧🇪
 - 🎓 Software Technology Engineering @ VIA University College - Denmark 🇩🇰 
 - 🏡 From Slovakia 🇸🇰  
 - 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
-- ♟️ Top 5% on chess.com 💪 gym enthusiast 🎤 occasional stand-up comedy performer
-- Cooking up some stock prediction bot
-- One person enterprise
+- ♟️ Top 3% on chess.com 
+- 💪 gym enthusiast 
+- 🎤 occasional stand-up comedy performer
+- 🎯 Cooking up some stock prediction bot
+- 🚀 One person enterprise
 
