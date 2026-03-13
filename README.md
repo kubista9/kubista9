@@ -41,15 +41,18 @@
 
 ---
 
-### 🚀 About Me ( Forward Deployment Engineering )
-- 🌍 Erasmus Exchange @ UoS - South Korea 🇰🇷
-- 🏢 Internship @ UCB - Belgium 🇧🇪
-- 🎓 Software Technology Engineering @ VIA University College - Denmark 🇩🇰 
-- 🏡 From Slovakia 🇸🇰  
-- 💡 Passionate about Full-Stack Development, Machine Learning & Finance  
-- ♟️ Top 3% on chess.com 
-- 💪 gym enthusiast 
+### 🚀 About Me
+- 💡 Passionate about Full-Stack Development, Machine Learning & Finance
 - 🎤 occasional stand-up comedy performer
 - 🎯 Cooking up some stock prediction bot
 - 🚀 One person enterprise
+- ♟️ Top 3% on chess.com 
+- 💪 gym enthusiast 
+
+- 💻 Professional Services Consultant @ Quadient - Czech Republic 🇨🇿
+- 🎓 Software Technology Engineering @ VIA University College - Denmark 🇩🇰 
+- 🌍 Erasmus Exchange @ UoS - South Korea 🇰🇷
+- 🏢 Internship @ UCB - Belgium 🇧🇪
+- 🏡 From Slovakia 🇸🇰  
+
 
