@@ -47,8 +47,9 @@
 - 🎯 Cooking up some stock prediction bot
 - 🚀 One person enterprise
 - ♟️ Top 3% on chess.com 
-- 💪 gym enthusiast 
+- 💪 gym enthusiast
 
+<br>
 - 💻 Professional Services Consultant @ Quadient - Czech Republic 🇨🇿
 - 🎓 Software Technology Engineering @ VIA University College - Denmark 🇩🇰 
 - 🌍 Erasmus Exchange @ UoS - South Korea 🇰🇷
