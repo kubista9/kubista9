@@ -46,5 +46,5 @@
 - 🎤 occasional stand-up comedy performer
 - 🎯 Cooking up some stock prediction bot
 - 🚀 One person enterprise
-- ♟️ Top 3% on chess.com 
+- ♟️ Top 5% on chess.com 
 - 💪 gym enthusiast
