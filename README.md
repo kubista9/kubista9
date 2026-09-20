@@ -48,3 +48,4 @@
 - 🚀 One person enterprise
 - ♟️ Top 5% on chess.com 
 - 💪 gym enthusiast
+- ✈️ travel
